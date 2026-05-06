@@ -3,4 +3,5 @@ Hackathon team repository for Entities - [hackindia-team:hackindia-ai-deeptech-h
 
 
 Group Members: 
-1. Tanmay Gupta 
+1. Tanmay Gupta
+2. Vishal Raghav
